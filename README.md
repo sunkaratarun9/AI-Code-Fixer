@@ -35,7 +35,7 @@ AI Code Fixer is a simple web-based tool that helps developers find and fix erro
 ## 🚀 How to Run the Project
 1. **Clone the Repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/sunkaratarun9/AI-Code-Fixer.git
    cd AI-Code-Fixer
    ```
 2. **Create a Virtual Environment (Optional but Recommended)**
