@@ -1,4 +1,5 @@
 # AI Code Fixer
+AI Code Fixer
 
 ## 📌 Project Overview
 AI Code Fixer is a simple web-based tool that helps developers find and fix errors in their code using AI. It provides a user-friendly interface, AI-powered corrections, and dark mode support.
